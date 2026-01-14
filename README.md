@@ -141,24 +141,25 @@ Result:
 
 ## Screenshots
 
-All execution proof and outputs are stored in the `img/` directory.
+### Custom Docker Network Creation
 
-```
-img/
-├── create_net1_network.png
-├── docker_inspect_net1.png
-├── history.png
-├── ping_install_in_container.png
-└── ping_success.png
-```
+![Custom Network Creation](img/create_net1_network.png)
 
-These screenshots show:
+### Docker Network Inspection
 
-* Network creation
-* Network inspection output
-* Command execution history
-* Ping installation inside container
-* Successful ping between containers
+![Docker Inspect net-1](img/docker_inspect_net1.png)
+
+### Command Execution History
+
+![Command History](img/history.png)
+
+### Installing Ping Utility Inside Container
+
+![Ping Installation](img/ping_install_in_container.png)
+
+### Successful Container-to-Container Ping
+
+![Ping Success](img/ping_success.png)
 
 ---
 
@@ -173,6 +174,16 @@ These screenshots show:
 
 ## Author
 
-Joy
+**Joy**
 BCA Graduate | DevOps & Cloud Enthusiast
+
+---
+
+## Connect With Me
+
+* **GitHub:** [https://github.com/RajAhire-1](https://github.com/RajAhire-1)
+* **LinkedIn:** [https://www.linkedin.com/in/raj-ahire](https://www.linkedin.com/in/raj-ahire)
+* **Medium:** [https://medium.com/@rajahire326](https://medium.com/@rajahire326)
+
+---
 
